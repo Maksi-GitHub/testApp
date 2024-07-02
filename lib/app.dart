@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:test/feature/posts/UI/post_screen.dart';
+import 'package:test/feature/posts/UI/home_screen.dart';
 import 'package:test/feature/posts/bloc/post_bloc.dart';
 import 'package:test/feature/posts/data/repositories/post_repository.dart';
 
